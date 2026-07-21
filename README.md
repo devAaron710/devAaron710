@@ -1,75 +1,41 @@
 # Hi there, I'm Aaron Azofeifa 👋
 
-<p align="center">
-  <a href="https://github.com/devAaron710">
-    <img src="https://img.shields.io/badge/GitHub-devAaron710-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/aaronazofeifaabarca/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aaron%20Azofeifa-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+## 💻 About Me
 
-## 👨‍💻 About Me
+I'm a **Systems Engineering Student** from **Costa Rica** passionate about software development, backend technologies, and continuous learning.
 
-I'm a Systems Engineering student from Costa Rica passionate about technology, software development, and IT support.
-
-I enjoy learning new technologies, solving problems, and building applications that improve people's daily work.
+I enjoy building applications, solving problems, and learning new technologies to create efficient and scalable solutions.
 
 - 🎓 Systems Engineering Student
 - 💼 IT Support Technician
-- 🌱 Currently learning ASP.NET Core, SQL Server, Cloud Computing and REST APIs
-- 💡 Interested in Backend Development, Databases, Automation and Cybersecurity
-- 🌎 Based in Costa Rica
+- 🌱 Currently improving my skills in **.NET**, **Cloud Computing**, and **Software Architecture**
+- 🚀 Interested in Backend Development, APIs, Databases, and Automation
 
 ---
 
-## 🚀 Technologies & Tools
+## 🚀 Tech Stack
 
 ### Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,html,css" />
+</p>
 
-### Backend
+### Frameworks & Technologies
 
-- ASP.NET Core Web API
-- REST APIs
-- Dapper
-- Entity Framework
-- Spring Boot (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,aspnet,mysql,git,github,postman,vscode,visualstudio" />
+</p>
 
-### Databases
+### Currently Learning
 
-- SQL Server
-- MySQL
-- Oracle Database
-
-### Tools
-
-- Visual Studio
-- Visual Studio Code
-- Git
-- GitHub
-- Postman
-- Docker (Learning)
-- Pentaho Data Integration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure" />
+</p>
 
 ---
 
-## 📚 Currently Working On
-
-- ASP.NET Core Web APIs
-- SQL Server projects
-- Backend development
-- Database design
-- Software Architecture
-- Cloud fundamentals
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -84,29 +50,34 @@ I enjoy learning new technologies, solving problems, and building applications t
 ## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=devAaron710&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 🎯 Goals for 2026
+## 🎯 Current Focus
 
-- ✅ Improve Backend Development skills
-- ✅ Master ASP.NET Core
-- ✅ Learn Docker & Kubernetes
-- ✅ Earn Cloud Certifications
-- ✅ Contribute to Open Source
-- ✅ Build real-world software projects
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/aaronazofeifaabarca/
-- 💻 GitHub: https://github.com/devAaron710
+- 🔹 Building REST APIs with ASP.NET Core
+- 🔹 Backend Development with C#
+- 🔹 SQL Server & Database Design
+- 🔹 Software Architecture
+- 🔹 Cloud Computing
+- 🔹 Clean Code & Best Practices
 
 ---
 
-⭐ *"Continuous learning is the key to becoming a better developer every day."*
+## 🌎 Connect with Me
+
+<p>
+<a href="https://github.com/devAaron710">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aaronazofeifaabarca/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+> **"Code. Learn. Improve. Repeat."** 🚀
