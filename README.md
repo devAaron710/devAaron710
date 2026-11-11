@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0F766E&height=220&section=header&text=Aaron%20Azofeifa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Systems%20Engineering%20Student%20%7C%20.NET%20Developer%20%7C%20IT%20Support&descAlignY=58&descSize=18" alt="Aaron Azofeifa banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0F766E&height=220&section=header&text=Aaron%20Azofeifa%20Abarca&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Systems%20Engineering%20Student%20%7C%20.NET%20Developer%20%7C%20IT%20Support&descAlignY=58&descSize=18" alt="Aaron Azofeifa banner"/>
 
 <a href="https://github.com/devAaron710">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=0F766E&center=true&vCenter=true&width=760&lines=Backend+developer+in+the+Microsoft+ecosystem;REST+APIs+%26+Clean+Architecture;SQL+Server+%7C+PostgreSQL+%7C+Business+Intelligence;IT+Support+%26+Hardware+Troubleshooting" alt="Typing animation"/>
@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Azofeifa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronazofeifaabarca/)
 [![Email](https://img.shields.io/badge/Email-aaroncruzcruz28%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaroncruzcruz28@gmail.com)
 ![Location](https://img.shields.io/badge/Heredia-Costa_Rica-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=devAaron710&style=for-the-badge&color=512BD4&label=PROFILE+VIEWS)
 
 </div>
 
@@ -31,22 +30,13 @@ I build applications with the **Microsoft ecosystem** (C#, ASP.NET Core, SQL Ser
 
 ---
 
-## 📈 Impact in numbers
+## 📊 GitHub at a glance
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><h2>67+</h2><sub>desktop PCs assembled<br/>and configured per week</sub></td>
-    <td align="center"><h2>45%</h2><sub>fewer post-assembly<br/>hardware issues</sub></td>
-    <td align="center"><h2>98%</h2><sub>inventory record accuracy<br/>(1,900+ components)</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><h2>~15</h2><sub>IT cases handled<br/>per month (1st-level support)</sub></td>
-    <td align="center"><h2>500+</h2><sub>packages processed and<br/>dispatched per month</sub></td>
-    <td align="center"><h2>40+</h2><sub>laptops and desktops<br/>set up with MS Office</sub></td>
-  </tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=devAaron710&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devAaron710&theme=tokyonight"/>
 
 </div>
 
@@ -136,31 +126,10 @@ I build applications with the **Microsoft ecosystem** (C#, ASP.NET Core, SQL Ser
 - 📊 Reports and dashboard
 - 🤖 Chatbot for quick queries
 
-**Architecture**
-
-```mermaid
-flowchart LR
-    U["👤 User<br/>Browser"] --> W["MinisterioGosen<br/>ASP.NET Core MVC<br/>Razor views + Bootstrap"]
-    W -->|"HTTP / JSON"| A["MinisterioGosenAPI<br/>ASP.NET Core Web API"]
-
-    subgraph EP["REST endpoints"]
-        direction TB
-        E1["Users"]
-        E2["Ministries"]
-        E3["Activities"]
-        E4["Appointments"]
-        E5["Reports & Dashboard"]
-        E6["Chatbot"]
-    end
-
-    A --> EP
-    EP -->|"Dapper"| D[("PostgreSQL<br/>migrated from SQL Server")]
-```
 
 **Highlights:** solution split into a presentation layer (MVC) and a REST API, data access with Dapper, and a **database migration from SQL Server to PostgreSQL**.
 
-<!-- Add the repository link here when it is public:
-👉 [View repository](https://github.com/devAaron710/REPO-NAME) -->
+👉 [View repository](https://github.com/JB1302/MinisterioGosen)
 
 ### 🗂️ Other projects
 
@@ -206,29 +175,6 @@ flowchart LR
 <img src="https://img.shields.io/badge/Design_Patterns-0F766E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Microservices-9333EA?style=for-the-badge"/>
 </p>
-
----
-
-## 📊 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devAaron710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAaron710&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=devAaron710&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devAaron710&theme=tokyo-night&hide_border=true&area=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=devAaron710&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 🎯 Career goals
-
-My goal is to become a **Backend Software Engineer specializing in the Microsoft ecosystem**, while growing my expertise in cloud computing, enterprise software architecture and modern development practices.
 
 ---
 
